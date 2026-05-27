@@ -1,1 +1,1 @@
-# supersimpledev-course
+# Learn Frontend by doing.
